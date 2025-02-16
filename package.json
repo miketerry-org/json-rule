@@ -1,6 +1,6 @@
 {
   "name": "json-rule",
-  "version": "0.5.2",
+  "version": "0.5.4",
   "description": "Use Rules to validate JSON data structures",
   "main": "index.js",
   "scripts": {
